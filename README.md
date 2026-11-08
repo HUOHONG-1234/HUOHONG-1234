@@ -1,6 +1,5 @@
 你好! 我是HUOHONG-2024 (也可以叫我火红) , 我学过一些基础的 **Powershell** . **CMD** .
-我目前是一名高一学生 (maybe?) 我目前因为(?)休学在家 , 我热衷于探索语言模型 (LLM) , 即使我只有一个RX570 :(
-我不太常用Github , 我会注意issue的 . 
+我目前是一名高一学生 (maybe?) 我目前因为(?)休学在家 , 我热衷于探索语言模型 (LLM) , 即使我只有一个RX570 :(<br>我不太常用Github , 我会注意issue的 . <br> 就像我的头像一样 , AdachiRei , 我喜欢使用Agent编程 , 因为我的编程底子并不好 , 就像我熟练PS也需要用CMD来 **robocopy . del . ren** 一样 . 
     <!-- 应该是Windows11 Ubuntu22.04 on WSL2 Android 14 -->
 
   我的编程平台:
